@@ -11,6 +11,6 @@ The script tries every possible 4-digit PIN combination from 0000 to 9999 to fin
 Clone the repository and run the Python script:
 
 - Bash -
-git clone https://github.com/YOUR-USERNAME/python-pin-cracker.git
-cd python-pin-cracker
-python src/pin_cracker.py
+git clone https://github.com/Klyxen/Pin-Cracker-Sim.git
+cd Pin-Cracker-Sim
+python main.py
