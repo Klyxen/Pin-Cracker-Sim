@@ -9,5 +9,5 @@ for pin in range(10 ** pin_len):
     guess = str(pin).zfill(pin_len) 
     print(f"Trying PIN: {guess}")
     if guess == pin:
-        print(f"PIN cracked! The correct PIN is: {guess}")
+        print(f"PIN found! : {guess}")
         break
